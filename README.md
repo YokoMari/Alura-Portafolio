@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Desafío Portafolio</h1>
-  <img src="https://github.com/YokoMari/OracleOne-Desafio-Encriptador/blob/75a70e08622e4b6543c7247ce5b8701a7237e8de/assets/img/logoPage4.svg" width="20%" />
+  <img src="https://github.com/YokoMari/Alura-Portafolio/blob/d8fa44166f9954cf774cbe0b4d3ffcec9b476581/assets/img/glass.png" width="20%" />
 </div>
 
 <div aling="center">
@@ -13,14 +13,6 @@
 </div>
 
 ## Requisitos del Desafío
-
-Las "llaves" de encriptación utilizadas son:
-
-- La letra `"e"` se convierte en `"enter"`
-- La letra `"i"` se convierte en `"imes"`
-- La letra `"a"` se convierte en `"ai"`
-- La letra `"o"` se convierte en `"ober"`
-- La letra `"u"` se convierte en `"ufat"`
 
 El proyecto debe cumplir:
 
@@ -36,14 +28,20 @@ El proyecto está organizado en los siguientes archivos y carpetas:
   - **`js:`** Archivo JavaScript que maneja la validacion del formulario del contacto.
   - **`Img:`** Archivos gráficos utilizados en la interfaz, como íconos y logotipos.
 
+## Link del Proyecto
+➡️ [💙Protafolio Web](https://yokomari.github.io/Alura-Portafolio/)
+
 ## Diseño de la Interfaz
 <div align="center">
-<img src="https://github.com/YokoMari/OracleOne-Desafio-Encriptador/blob/d3d5164a1e1476b1f8e6258d85b855fb3f55bfe1/assets/img/PartesDise%C3%B1o.png" width="80%" />
+<img src="https://github.com/YokoMari/Alura-Portafolio/blob/d8fa44166f9954cf774cbe0b4d3ffcec9b476581/assets/img/portafolio.png" width="80%" />
 </div>
+
+
+
 
 <div  align="center">
   <h3>Diseño Responsivo</h3>
-  <img src="https://github.com/YokoMari/OracleOne-Desafio-Encriptador/blob/c38d71f6810e2bd512739d78abdb29636d819327/assets/img/Dise%C3%B1oR.png" width="80%"/>
+  <img src="https://github.com/YokoMari/Alura-Portafolio/blob/d8fa44166f9954cf774cbe0b4d3ffcec9b476581/assets/img/1735016263523.png" width="80%"/>
 </div>
 
 ## Contáctame
