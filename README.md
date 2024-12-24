@@ -24,67 +24,27 @@ Las "llaves" de encriptación utilizadas son:
 
 El proyecto debe cumplir:
 
-- ✅ Debe funcionar solo con letras minúsculas.
-- ✅ No se deben utilizar letras acentuadas ni caracteres especiales.
-- ✅ Debe permitir convertir una palabra a su versión encriptada y devolver una palabra encriptada a su versión original.
-- ✅ La página debe incluir un campo para la inserción de texto, y el usuario debe poder elegir entre encriptar o desencriptar.
-- ✅ El resultado debe mostrarse en la pantalla.
-- ✅ Extra: Un botón que copie el texto encriptado/desencriptado.
+- ✅ Debe contener secciones como Sobre Mi, Skills, Hobbies, Formacion Academia, Experiencia Profesional y Contacto.
 
 ## Estructura del Proyecto
 
 El proyecto está organizado en los siguientes archivos y carpetas:
 
 - **`index.html:`** Archivo principal que contiene la estructura HTML de la página web.
-- **`src:`** Carpeta con los archivos de código fuente:
-  - **`styles.css:`** Archivo CSS que define los estilos de la página, garantizando una interfaz atractiva y responsiva.
-  - **`script.js:`** Archivo JavaScript que maneja la lógica de encriptación, desencriptación y otras funcionalidades interactivas.
-- **`assets:`** Carpeta con los recursos multimedia del proyecto:
-  - **`Imágenes y SVGs:`** Archivos gráficos utilizados en la interfaz, como íconos y logotipos.
+- **`assets:`** Carpeta con los archivos del proyecto:
+  - **`css:`** Archivos CSS que definen los estilos de la página, garantizando una interfaz atractiva y responsiva.
+  - **`js:`** Archivo JavaScript que maneja la validacion del formulario del contacto.
+  - **`Img:`** Archivos gráficos utilizados en la interfaz, como íconos y logotipos.
 
 ## Diseño de la Interfaz
 <div align="center">
 <img src="https://github.com/YokoMari/OracleOne-Desafio-Encriptador/blob/d3d5164a1e1476b1f8e6258d85b855fb3f55bfe1/assets/img/PartesDise%C3%B1o.png" width="80%" />
 </div>
 
-1. Título y Logo del Proyecto
-2. Área de Información y Contacto
-3. Campo de Entrada de Texto
-4. Campo de Salida de Texto
-5. Alerta de Entrada Incorrecta
-6. Botón para Encriptar Texto
-7. Botón para Desencriptar Texto
-8. Botón de Limpiar
-9. Botón de Copiar
-
-
 <div  align="center">
   <h3>Diseño Responsivo</h3>
   <img src="https://github.com/YokoMari/OracleOne-Desafio-Encriptador/blob/c38d71f6810e2bd512739d78abdb29636d819327/assets/img/Dise%C3%B1oR.png" width="80%"/>
 </div>
-
-## Funcionalidades
-
-- **Encriptar Texto:** Convierte el texto ingresado a un formato cifrado utilizando las llaves de encriptación.
-- **Desencriptar Texto:** Transforma el texto cifrado de vuelta a su formato original.
-- **Copiar Texto:** Permite copiar el texto resultante al portapapeles con un solo clic.
-- **Limpiar/Reiniciar:** Borra el contenido del área de texto y cualquier resultado previamente generado, reiniciando la página para una nueva operación.
-
-## Características
-
-- **Cambio de Modo:** Alterna fácilmente entre encriptar y desencriptar con un botón.
-- **Visibilidad Dinámica:** Los botones de limpiar y copiar solo aparecen cuando son necesarios, optimizando la interfaz.
-- **Diseño Responsivo:** Se adapta a diferentes tamaños de pantalla, proporcionando una experiencia óptima en dispositivos móviles y de escritorio.
-- **Alertas Contextuales:** Las alertas se ajustan según el tipo de parámetro incorrecto ingresado, ofreciendo retroalimentación precisa al usuario.
-
-## Instrucciones de Uso
-
-1. Abre el enlace del proyecto ➡️ [🔒Desafio Encriptador](https://yokomari.github.io/OracleOne-Desafio-Encriptador/)
-2. Ingresa el texto que deseas encriptar o desencriptar en el campo de entrada.
-3. Haz clic en el botón **"Encriptar"** para convertir el texto a un formato cifrado.
-4. Haz clic en el botón **"Desencriptar"** para devolver el texto cifrado a su formato original.
-5. Usa el botón **"Copiar"** para copiar el texto resultante al portapapeles.
-6. Utiliza el botón **"Limpiar"** para borrar el contenido del área de texto y reiniciar el proceso.
 
 ## Contáctame
 
